@@ -36,7 +36,7 @@ Also a new admin user can be created using
 ```bash
 python manage.py createsuperuser
 ```
-
+le po la tues es fro
 ## Users
 
 New students and teachers can be added through the admin page. A new user needs to be created for each. 
